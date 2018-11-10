@@ -1,0 +1,17 @@
+.row1 {
+  color:red;
+  padding:100px;
+  margin:100px;
+  text-align:center;
+  top:100px;
+  border:10px solid black;
+
+}
+
+.row2 {
+  color:red;
+  padding:50px;
+  margin:50px;
+  text-align:center;
+
+}
