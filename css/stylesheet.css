@@ -1,18 +1,20 @@
+body {
+  background-color:#42aaf0
+}
+
 .row1 {
-  color:red;
+  color:black;
   padding:50px;
-  margin:50px;
+  
   text-align:center;
   border:10px solid black;
 
 }
 
 .row2 {
-  color:red;
   padding:50px;
-  margin:50px;
+  margin:20px;
   text-align:center;
-
 }
 
 #col1 {
@@ -21,4 +23,8 @@
 
 #col2 {
   border:10px solid black;
+}
+
+#homeValuation, #propertyDetails, #vacancy, #homeFlips, #interestRates, #mortageRates, #postings {
+  margin:16.1px;
 }
