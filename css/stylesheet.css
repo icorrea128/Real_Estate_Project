@@ -1,9 +1,8 @@
 .row1 {
   color:red;
-  padding:100px;
-  margin:100px;
+  padding:50px;
+  margin:50px;
   text-align:center;
-  top:100px;
   border:10px solid black;
 
 }
@@ -14,4 +13,12 @@
   margin:50px;
   text-align:center;
 
+}
+
+#col1 {
+  border:10px solid black; 
+}
+
+#col2 {
+  border:10px solid black;
 }
